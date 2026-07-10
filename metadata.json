@@ -1,0 +1,6 @@
+{
+  "name": "Perpustakaan SMAN 1 Banjarsari",
+  "description": "Sistem Presensi Digital & Kartu Anggota QR Code Perpustakaan SMAN 1 Banjarsari",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
